@@ -3,7 +3,7 @@
 Beskar cloud open-source community shares best-practices around deploying and maintaining OpenStack cloud on top of Kubernetes cloud.
 
 ## Overview
-Beskar cloud was formed to share expertise how to run and maintain OpenStack cloud on top of Kubernetes using open source projects like kubespray and openstack-helm with automated deployment using Flux's GitOps tool.
+Beskar cloud was formed to share expertise how to run and maintain OpenStack cloud on top of Kubernetes using open source projects like kubespray and openstack-helm with automated deployment using GitOps Flux CD.
 
 ### Beskar cloud community brings
  * proven production OpenStack architecture
