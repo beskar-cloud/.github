@@ -30,4 +30,4 @@ Beskar cloud is formed by cloud enthusiasts from following organizations:
  * [e-INFRA.CZ](https://www.e-infra.cz/en)
 
 ## [Contacts](https://github.com/beskar-cloud/knowledgebase/blob/main/team/communications.md)
-![Discord Shield](https://discordapp.com/api/guilds/1146030921280143493/widget.png?style=shield), ![Community meetings](https://docs.google.com/document/d/1XWV80e05FNJBcoyT9KNiCFCe7i5_18LtaPsNe_-FcK4)
+![Discord Shield](https://discordapp.com/api/guilds/1146030921280143493/widget.png), ![Community meetings](https://docs.google.com/document/d/1XWV80e05FNJBcoyT9KNiCFCe7i5_18LtaPsNe_-FcK4)
