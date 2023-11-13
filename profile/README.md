@@ -20,7 +20,7 @@ Beskar cloud was formed to share expertise how to run and maintain OpenStack clo
 [Frequently asked questions](https://github.com/beskar-cloud/knowledgebase/blob/main/howtos/Beskar/faq.md).
 
 ## Cyber-security compliance
-We are happy to announce that Beskar cloud passed penetration tests. Tests were conducted in September 2023 by CESNET Forensic Laboratory.
+We are happy to announce that one of our Beskar-based cloud instance passed penetration tests. Tests were conducted in September 2023 by CESNET Forensic Laboratory.
 
 
 ![](./pictures/flab_logo-220.png#center)
